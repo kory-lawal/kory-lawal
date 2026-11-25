@@ -1,13 +1,29 @@
 ## Hi, I am Solih Lawal
 
-Software engineer and AI/ML developer in Lagos, Nigeria. Open to remote work.
+AI/ML and software engineer in Lagos, Nigeria. I build AI products that people can use. Open to remote work.
 
-Recently built: Sabi-body, a fitness app with accounts, workout history, reminders, friends and video workouts together.
+### Building now
 
-Also built: BOOKIT, a lecture hall booking tool. Second runner up at NACOS TechFest 2024.
+SabiBody: a live AI fitness platform at https://www.sabibody.fit. It uses computer vision (MediaPipe) in the browser to count repetitions and give movement feedback, with workout buddies, challenges, streaks, live chat and spoken coaching in Nigerian languages. Python (FastAPI) and PostgreSQL backend, JavaScript front end, automated tests. Code: https://github.com/kory-lawal/Sabi-body
 
-Tools: Python, JavaScript, HTML, CSS, Git, Streamlit, Vercel.
+### Selected projects
 
-Registered member of the Computer Professionals (Registration Council of Nigeria), MCPN.
+AI Web Crawler: ask questions about any web page, using LangChain and a local Llama 3.2 model. https://github.com/kory-lawal/ai_web_crawler
 
-Write to me: korylawal@gmail.com or linkedin.com/in/solih-lawal
+Smart Vision: object and face detection with YOLOv8 and OpenCV. https://github.com/kory-lawal/smart_vision
+
+AI Oriki System (final-year project): generates Yoruba praise poetry, with translation and speech. https://github.com/kory-lawal/TAF-final-year-project
+
+Tuber DSS: a voice crop-disease helper for farmers, in English, Yoruba, Hausa and Igbo.
+
+BOOKIT: a lecture hall booking app. Second Runner-Up, NACOS TechFest 2024.
+
+### Tools
+
+Python, FastAPI, PostgreSQL, JavaScript, MediaPipe, OpenCV, YOLOv8, LangChain, Ollama, Streamlit, Git, Vercel
+
+BSc Computer Science, Fountain University. MCPN (Computer Professionals Registration Council of Nigeria).
+
+LinkedIn: https://www.linkedin.com/in/solih-lawal
+
+Email: korylawal@gmail.com
