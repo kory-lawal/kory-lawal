@@ -4,7 +4,7 @@ AI/ML and software engineer in Lagos, Nigeria. I build AI products that people c
 
 ### Building now
 
-SabiBody: a live AI fitness platform at https://www.sabibody.fit. It uses computer vision (MediaPipe) in the browser to count repetitions and give movement feedback, with workout buddies, challenges, streaks, live chat and spoken coaching in Nigerian languages. Python (FastAPI) and PostgreSQL backend, JavaScript front end, automated tests. Code: https://github.com/kory-lawal/Sabi-body
+SabiBody: a live AI fitness platform at https://www.sabibody.fit. It uses computer vision (MediaPipe) in the browser to count repetitions and give movement feedback, with workout buddies, challenges, streaks, live chat and spoken coaching in Nigerian languages. Python (FastAPI) and PostgreSQL backend, JavaScript front end, automated tests. The code is in a private repository: I am happy to walk you through it.
 
 ### Selected projects
 
